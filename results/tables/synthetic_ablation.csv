@@ -1,0 +1,3 @@
+configuration,distance_travelled_m,final_error_m,drift_percent
+raw_imu_dead_reckoning,1079.8,776.1,71.9
+ekf_gnss_ins_baseline,1079.8,318.2,29.5
