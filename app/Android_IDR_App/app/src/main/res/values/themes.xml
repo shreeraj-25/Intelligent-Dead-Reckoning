@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.IDRApp" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
